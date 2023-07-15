@@ -64,7 +64,7 @@
             "Counter": "300000",
             "notification_title": "check our new game",
             "notification_text": "woow Grimace game is here try it now",
-            "showrate" : false
+            "showrate" : true
 
         
             
