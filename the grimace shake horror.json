@@ -8,7 +8,7 @@
             "rate_comment": true,
             
             "update_app" : false,
-            "activate_ads" : false,
+            "activate_ads" : true,
             "activate_banner" : "on",
             "activate_inter" : "on",
             
@@ -37,7 +37,7 @@
             "fan_int": "2455443151275039_2455451494607538",
             "fan_rewarded": "2455443151275039_2455451697940851",
 
-            "iron_key": "1767d8925",
+            "iron_key": "1ad7efbbd",
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
             "iron_rewarded" : "DefaultRewardedVideo",
@@ -47,8 +47,8 @@
 
             "ad_score_amount" : 1,
             "ad_game_minutes" : 1,
-            "ad_int_interval" : 4,
-            "score_rating_reward" : 3,
+            "ad_int_interval" : 1,
+            "score_rating_reward" : 1,
 
             "orientation": "landscape",
 
@@ -170,7 +170,7 @@
     "menu" : [
         {
             "active" : "true",
-            "active_reward" : "false",
+            "active_reward" : "true",
             "name" : "Guide",
             "ico" : "https://9asso.github.io/published/imgs/btmore.png",
             "bg" : "#3F51B5"
@@ -184,7 +184,7 @@
         },
         {
             "active" : "true",
-            "active_reward" : "false",
+            "active_reward" : "true",
             "name" : "Spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#ffffff"
@@ -212,7 +212,7 @@
         },
         {
             "active" : "true",
-            "active_reward" : "false",
+            "active_reward" : "true",
             "name" : "Wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#ffffff"
